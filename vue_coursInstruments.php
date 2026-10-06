@@ -11,7 +11,7 @@
   <table>
 
 <!-- affichage de l’entête du tableau des cours liés à l'instrument
-	
+	<? echo ?>
 	
 <!-- affichage  de l’ensemble des  cours liés à l'instrument
 

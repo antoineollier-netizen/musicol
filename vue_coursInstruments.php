@@ -19,5 +19,4 @@
 </section>
 		
 <p><a href="index.php">Retour Accueil</a></p>
-
 </HTML>
